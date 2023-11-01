@@ -13,7 +13,7 @@ body {
     margin: 0 auto;
     max-width: 680px;
     text-align: center;
-    width: 68rem;
+    width: 67rem;
     height: 450px;
     background-color: white;
     margin: 7rem auto;
@@ -72,7 +72,7 @@ button {
     border-color: blue;
     background-color: rgba(18, 46, 205, 0.83);
     text-align: center;
-    margin: -11rem 1rem;
+    margin: -11rem 5rem;
 }
 
 #next-button {
@@ -85,5 +85,6 @@ button {
     border-color: blue;
     background-color: rgba(18, 46, 205, 0.83);
     text-align: center;
-    margin: -11rem 1rem;
+    margin: -11rem 5rem;
 }
+
